@@ -1,0 +1,61 @@
+*{
+    transition: 1s;
+}
+
+.morning
+{
+    background: rgb(236, 236, 236);
+    color: rgb(56, 56, 56);
+}
+.morning div
+{
+    background: rgb(255, 255, 255);
+}
+
+.lunch
+{
+    background: rgb(255, 229, 173);
+}
+.lunch div
+{
+    background: rgb(252, 237, 206);
+}
+
+.evening
+{
+    background: rgb(250, 210, 123);
+}
+.evening div
+{
+    background: rgb(250, 219, 154);
+}
+
+.sunset
+{
+    background: rgb(253, 105, 47);
+    color: rgb(53, 53, 53);
+}
+.sunset div
+{
+    background: rgb(253, 140, 47);
+}
+
+.night
+{
+    background: #131313;
+    color: #a2a7a0;
+}
+.night div
+{
+    background: #1d1d1d;
+}
+
+.dawn
+{
+    background: #313131;
+    color: #dbdbdb;
+}
+.dawn div
+{
+    background: #5e5e5e;
+}
