@@ -1,3 +1,8 @@
+# Hora Atual com React JS
+
+> ## Exibe a hora atual e estiliza a página conforme automaticamente. ![preview](public/preview.png)
+
+---
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
